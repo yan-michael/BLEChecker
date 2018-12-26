@@ -7,7 +7,7 @@ In celebration of 10,000 installations on Google Play, here's the (very simplist
 
 
 
-BLE Supported           |  BLE not supported
+BLE supported           |  BLE not supported
 :-------------------------:|:-------------------------:
 ![yes](https://user-images.githubusercontent.com/15942983/50428138-c0819800-0882-11e9-9343-c22c06f08d62.gif)  |  ![no](https://user-images.githubusercontent.com/15942983/50428139-c0819800-0882-11e9-8f89-29670834d6bf.gif)
 
