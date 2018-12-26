@@ -4,8 +4,8 @@
 
 In celebration of 10,000 installations on Google Play, here's the (very simplistic) source code of BLE Checker! 
 
-![github](https://user-images.githubusercontent.com/15942983/50428084-21f53700-0882-11e9-9e60-48c6b91aa9c2.gif)
-| ![gif](https://user-images.githubusercontent.com/15942983/50428052-b90dbf00-0881-11e9-9cb7-409358596ba1.png)
+![yes](https://user-images.githubusercontent.com/15942983/50428138-c0819800-0882-11e9-9343-c22c06f08d62.gif)
+![no](https://user-images.githubusercontent.com/15942983/50428139-c0819800-0882-11e9-8f89-29670834d6bf.gif)
 
 
 
