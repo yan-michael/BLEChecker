@@ -1,2 +1,2 @@
-# [Aesthetic] Bluetooth Low Energu (BLE) Checker App
+# [Aesthetic] Bluetooth Low Energy (BLE) Checker App
 
