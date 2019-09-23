@@ -2,7 +2,7 @@
 
 ### Why?
 
-In celebration of 30,000 installations on Google Play, here's the (very simplistic) source code of BLE Checker! 
+In celebration of 30,000 installations on Google Play, here's the (very simple) source code of BLE Checker! 
 
 
 
